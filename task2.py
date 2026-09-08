@@ -1,6 +1,5 @@
 import turtle
 
-
 def perform_switch_case(state, t, turn):
     x = round(t.position()[0] / 10)
     y = round(t.position()[1] / 10)
